@@ -64,7 +64,7 @@ img {
 }
 
 .activity {
-  height: 420px;
+  height: 450px;
   font-weight: 200px;
   background-color: #fff4e1;
 }
@@ -105,7 +105,7 @@ img {
   margin: 50px auto;
   padding: 20px;
   display: flex;
-  background-color: #ffecd1;
+  background-color: #ffd7ba;
   justify-content: space-around;
   border-bottom: 5px solid #540b0e;
   border-radius: 2%;
